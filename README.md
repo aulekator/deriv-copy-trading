@@ -1,12 +1,10 @@
-# Deriv Synthetic Indices Copy Trading (MT5)
+# Deriv Copy Trading (MT5)
 
-Copy trades from any Deriv MT5 account to your own, automatically. **Auxobots Cloud Copy** runs your MT5 terminals in the cloud, so there is no VPS to rent and no expert advisor to install.
+[![Deriv copy trading software - Auxobots Cloud Copy](deriv-copy-trading.png)](https://auxobots.com/fx-bots/copy-trading/cloud/)
+
+Copy trades from a mentor's MT5 account onto your own Deriv MT5 account, automatically. **Auxobots Cloud Copy** runs your MT5 terminals in the cloud, so there is no VPS to rent and no expert advisor to install.
 
 **[Get started with Auxobots Cloud Copy Trading](https://auxobots.com/fx-bots/copy-trading/cloud/)**
-
-## What is Deriv synthetic copy trading?
-
-Deriv's synthetic indices, such as Volatility 75 Index, Volatility 10 Index and Volatility 100 Index, trade around the clock on MT5. Copy trading lets you follow a mentor's trades on these markets without watching their screen: when the mentor opens or closes a trade, your account does the same, at your own lot size.
 
 ## How it works
 
@@ -23,10 +21,6 @@ Deriv's synthetic indices, such as Volatility 75 Index, Volatility 10 Index and 
 - Stop and resume copying any time from the dashboard
 - Cloud-hosted: no VPS, no EA to install
 
-## Examples of synthetic indices on Deriv MT5
-
-Volatility 10, 25, 50, 75 and 100 Index, Boom and Crash indices, Step Index and Jump indices. Symbol names are matched exactly as your Deriv MT5 account shows them.
-
 ## FAQ
 
 **Do I need a VPS?** No. Your terminals run on Auxobots servers.
@@ -39,7 +33,7 @@ Volatility 10, 25, 50, 75 and 100 Index, Boom and Crash indices, Step Index and 
 
 ## Risk warning
 
-Trading involves risk, and you can lose money. Copying a trader does not guarantee profit, and past performance does not guarantee future results. Synthetic indices are volatile. Nothing here is financial advice.
+Trading involves risk, and you can lose money. Copying a trader does not guarantee profit, and past performance does not guarantee future results. Nothing here is financial advice.
 
 ## Disclaimer
 
